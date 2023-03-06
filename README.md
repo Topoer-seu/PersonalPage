@@ -1,3 +1,3 @@
 # PersonalPage
 
-redirect to https://csqjxiao.github.io/PersonalPage/index.html
+redirect to https://topoer-seu.github.io/PersonalPage/
